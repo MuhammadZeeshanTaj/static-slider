@@ -1,0 +1,15 @@
+{
+  "name": "static-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d static-slider"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://MuhammadZeeshanTaj.github.io/static-slider",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
